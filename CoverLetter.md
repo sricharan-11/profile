@@ -9,7 +9,7 @@ choosing Techstacks, Cloud Solutioning, deployments in Kubernetes with CI/CD, BC
 -  **As a Product Owner:**
 I have used the MoSCoW method and incorporated stunning features relying on the empathetic parts of the user feedback to improve user experience of large scale SaaS CRM.
 
--  More details are incorporated in the resume [linked here, click here](https://github.com/sricharan-11/profile/blob/main/Resume-SriCharan.pdf). Reload the browser if showing an error, github should reder it for sure.
+-  More details are incorporated in the resume [linked here, click here](https://github.com/sricharan-11/profile/blob/main/Resume-SriCharan.pdf). _Reload the browser if this link is showing an error, github should render it for sure._
 
 -  Being responsible and reliable puts me off-beat. 
 
