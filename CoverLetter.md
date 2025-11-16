@@ -13,4 +13,6 @@ I have used the MoSCoW method and incorporated stunning features relying on the 
 
 -  Being responsible and reliable puts me off-beat. 
 
+- Recipient of [Google P-All Star Solutioning Award](https://www.linkedin.com/posts/sri-charan11_partnersallstars-google-googlecloud-activity-7141625063660830720-zX8t/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABnWHXYBwoER-sdkDZd_sriJQ2q1Yje-xmw) & iSolution CEO Appreciation Letter
+
 Once reviewed, please do not hesitate to contact me. 
